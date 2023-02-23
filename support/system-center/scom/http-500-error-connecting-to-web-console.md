@@ -23,10 +23,12 @@ This issue doesn't occur if you connect to the web console from the web console 
 
 To fix the issue, perform the following configurations and verifications, and then connect to the web console again:
 
-1. [Register the SDK SPNs.](#register-the-sdk-spns)
-1. [Verify the SDK SPNs.](#verify-the-sdk-spns)
-1. [Register the HTTP SPNs.](#register-the-http-spns)
-1. [Verify the HTTP SPNs.](#verify-the-http-spns)
+1. [SDK SPNs](#sdk-spns)
+   - [Register the SDK SPNs.](#register-the-sdk-spns)
+   - [Verify the SDK SPNs.](#verify-the-sdk-spns)
+1. [HTTP SPNs](#http-spns)
+   - [Register the HTTP SPNs.](#register-the-http-spns)
+   - [Verify the HTTP SPNs.](#verify-the-http-spns)
 1. [Configure constraint delegations.](#configure-constraint-delegations)
 1. [Verify "Account is sensitive and cannot be delegated" isn't set.](#verify-account-is-sensitive-and-cannot-be-delegated-isnt-set)
 
